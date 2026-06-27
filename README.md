@@ -1,6 +1,6 @@
 # Arquam Rahman
 
-AI/ML & Embedded Software Engineer in Kobe, Japan (Mitsubishi Heavy Industries Group).
+AI/ML & Embedded Software Engineer in Kobe, Japan @ RSG (Mitsubishi Heavy Industries Group).
 
 I build production AI for environments where the cloud isn't an option — offline RAG pipelines, on-premise LLM serving, and real-time computer vision deployed to air-gapped enterprise and edge hardware. IIT Delhi, 2024.
 
